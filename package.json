@@ -13,7 +13,7 @@
     "canvas-sketch": "^0.7.3",
     "leapjs": "^0.6.4",
     "leapjs-plugins": "^0.1.12",
-    "three": "^0.116.1",
+    "three": "^0.125.0",
     "three.meshline": "^1.2.0"
   }
 }
